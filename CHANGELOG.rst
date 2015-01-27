@@ -2,8 +2,8 @@
 Changelog for package power_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.2 (2015-01-26)
+------------------
 * add limits, documentation (breaks MD5)
 * Contributors: Michael Ferguson
 
