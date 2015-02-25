@@ -2,8 +2,8 @@
 Changelog for package power_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.3 (2015-02-24)
+------------------
 * add name to breaker state message (for multiple breakers in an array)
 * Contributors: Michael Ferguson
 
