@@ -7,6 +7,9 @@ uint8 STATE_DISABLED = 0
 uint8 STATE_ENABLED = 1
 uint8 STATE_ERROR = 2
 
+# Name of the breaker
+string name
+
 # The state of the breaker, should be one of the values seen above.
 uint8 state
 
