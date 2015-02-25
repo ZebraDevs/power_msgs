@@ -2,6 +2,11 @@
 Changelog for package power_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* add name to breaker state message (for multiple breakers in an array)
+* Contributors: Michael Ferguson
+
 0.1.2 (2015-01-26)
 ------------------
 * add limits, documentation (breaks MD5)
