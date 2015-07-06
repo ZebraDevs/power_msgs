@@ -2,8 +2,8 @@
 Changelog for package power_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.0 (2015-07-06)
+------------------
 * add message for battery state
 * Contributors: Michael Ferguson
 
