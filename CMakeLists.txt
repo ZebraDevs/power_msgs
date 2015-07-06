@@ -11,6 +11,7 @@ add_message_files(
   FILES
     BatteryState.msg
     BreakerState.msg
+    BatteryStatus.msg
 )
 
 add_service_files(
