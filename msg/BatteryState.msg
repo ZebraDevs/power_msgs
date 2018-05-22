@@ -11,3 +11,6 @@ bool is_charging
 # When discharging, this is the time until battery is empty.
 # Non-zero values are considered valid.
 duration remaining_time
+
+# The list of errors associated wtih the charger
+string[] errors
