@@ -2,7 +2,7 @@
 Changelog for package power_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.2.1 (2018-07-10)
+0.3.0 (2018-07-10)
 ------------------
 * updates ownership
 * Merge pull request `#8 <https://github.com/fetchrobotics/power_msgs/issues/8>`_ from cjds/errors
