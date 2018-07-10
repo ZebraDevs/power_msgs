@@ -2,6 +2,17 @@
 Changelog for package power_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.1 (2018-07-10)
+------------------
+* updates ownership
+* Merge pull request `#8 <https://github.com/fetchrobotics/power_msgs/issues/8>`_ from cjds/errors
+  Added error messages to the battery state for more information
+* added error messages to the battery state for more information in FC
+* Merge pull request `#6 <https://github.com/fetchrobotics/power_msgs/issues/6>`_ from macmason/master
+  Add LICENSE file.
+* Add LICENSE file.
+* Contributors: Carl Saldanha, Mac Mason, Michael Ferguson, Russell Toris, cjds
+
 0.2.0 (2015-07-06)
 ------------------
 * add message for battery state
