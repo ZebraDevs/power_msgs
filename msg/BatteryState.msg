@@ -12,5 +12,18 @@ bool is_charging
 # Non-zero values are considered valid.
 duration remaining_time
 
-# The list of errors associated wtih the charger
-string[] errors
+# Total capacity of battery
+float32 total_capacity
+
+# Current capacity of battery
+float32 current_capacity
+
+# Voltage of battery
+float32 battery_voltage
+
+# Voltage of the supply breaker
+float32 supply_voltage
+
+# Voltage of the charger
+float32 charger_voltage
+
