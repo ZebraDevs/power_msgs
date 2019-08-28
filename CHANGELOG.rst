@@ -2,6 +2,28 @@
 Changelog for package power_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge pull request `#10 <https://github.com/fetchrobotics/power_msgs/issues/10>`_ from pavansoundara/battery-data
+
+  We've released a binary version of the drivers which publishes the this version
+  Note: will investigate switching both internal and external code to use:
+  http://docs.ros.org/api/sensor_msgs/html/msg/BatteryState.html in the future.
+
+  Adds:
+
+  * total_capacity
+  * current_capacity
+  * battery_voltage
+  * supply_voltage
+  * charger_voltage
+
+  Removes:
+
+  * errors
+
+* Contributors: Alex Moriarty, Pavan Soundara
+
 0.3.0 (2018-07-10)
 ------------------
 * updates ownership
