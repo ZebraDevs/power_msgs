@@ -2,6 +2,11 @@
 Changelog for package power_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* updates maintainers
+* Contributors: Alex Moriarty, Russell Toris
+
 0.4.0 (2019-08-28)
 ------------------
 * Merge pull request `#10 <https://github.com/fetchrobotics/power_msgs/issues/10>`_ from pavansoundara/battery-data
