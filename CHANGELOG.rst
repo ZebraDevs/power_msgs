@@ -2,8 +2,8 @@
 Changelog for package power_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.4.1 (2020-05-24)
+------------------
 * updates maintainers
 * Contributors: Alex Moriarty, Russell Toris
 
