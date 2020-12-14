@@ -27,3 +27,5 @@ float32 supply_voltage
 # Voltage of the charger
 float32 charger_voltage
 
+# If true, robot is connected to the charger but not necessarily charging
+bool is_charger_detected
