@@ -10,7 +10,7 @@ bool is_charging
 # When charging, this is the remaining time until fully charged.
 # When discharging, this is the time until battery is empty.
 # Non-zero values are considered valid.
-duration remaining_time
+builtin_interfaces/Duration remaining_time
 
 # Total capacity of battery
 float32 total_capacity
